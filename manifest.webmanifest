@@ -1,0 +1,58 @@
+{
+  "name": "Jenny Hub 🩷 | Jenny Mod",
+  "short_name": "Jenny Hub",
+  "description": "Jenny Mod برای Minecraft Java 1.12.2 و Bedrock 1.19.50 به بالا",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "fa",
+  "dir": "rtl",
+  "theme_color": "#1e3a5f",
+  "background_color": "#f2f3f6",
+  "icons": [
+    {
+      "src": "./icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-1040.png",
+      "sizes": "1040x1040",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
